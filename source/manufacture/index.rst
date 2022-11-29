@@ -3,13 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-模板文件
+厂商信息
 ==========================================
 
 .. toctree::
    :maxdepth: 3
    :titlesonly:
 
-   manufacture/index
-   misc/index
+   oled
 
